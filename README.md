@@ -7,9 +7,9 @@ My ```$PublisherID``` is [TheRealCStover](https://resources.wolframcloud.com/pub
 ## Summary
 Here is some data:
 
-| Resource | Version in this Repo | Published Version |
+| Resource | Version(s) in this Repo | Published Version |
 | ----------- | ----------- | ----------- |
-| [PlayWordle](https://resources.wolframcloud.com/FunctionRepository/resources/PlayWordle/) | v1.0.0 | v1.1.0 |
+| [PlayWordle](https://resources.wolframcloud.com/FunctionRepository/resources/PlayWordle/) | v1.0.0 (Jun 14 '22) <br> <sub>(_newer versions coming soon_)</sub> | v1.1.0 |
 | [RandomMetalPseudoSubgenre](https://resources.wolframcloud.com/FunctionRepository/resources/RandomMetalPseudoSubgenre/) | N/A (_coming soon_) | v1.0.0 |
 
 ## Changelog
