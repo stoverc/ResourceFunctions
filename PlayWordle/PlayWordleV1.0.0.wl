@@ -1,3 +1,5 @@
+(* ::Package:: *)
+
 (* Created with the Wolfram Language : www.wolfram.com *)
 DynamicModule[{guessnumber = 0, list = {"aahed", "aalii", "aargh", "aarti", 
     "abaca", "abaci", "aback", "abacs", "abaft", "abaka", "abamp", "aband", 
@@ -1829,3 +1831,51 @@ according to the throw of dice"}, len = True, realword = True,
      lgy = GrayLevel[0.675]; )), Alignment -> Center, 
   ContentSize -> {700, Automatic}, FrameLabel -> "PlayWordle"], 
  DynamicModuleValues :> {}]
+
+
+(* ::Section:: *)
+(*Author NotesPaneSelector[{True -> $CellContext`MoreInfoOpenerButtonTemplate[$CellContext`Author $CellContext`Notes, ExpressionCell[Framed[TextCell["This section, when used, will appear near the bottom of the published resource. Content displayed in this section can include background, possible improvements, additional information and/or implementation details that are otherwise beyond the scope of the function documentation.", "MoreInfoText"], Background -> GrayLevel[0.95], FrameMargins -> 20, FrameStyle -> GrayLevel[0.9], RoundingRadius -> 5, ImageSize -> {Scaled[0.65], Automatic}], "MoreInfoText", Deletable -> True, CellTags -> {"SectionMoreInfoAuthorNotes"}, CellMargins -> {{66, 66}, {15, 15}}]]}, Dynamic[CurrentValue[EvaluationNotebook[], {TaggingRules, "ResourceCreateNotebook"}]], ImageSize -> Automatic]*)
+
+
+(* ::Item:: *)
+(*Online sources suggest that the official Wordle game has a list of words it uses for the game (link) and a separate word list consisting of what it considers "valid guesses" (link).*)
+
+
+(* ::Subitem:: *)
+(*This source says that the daily puzzle words will never be pulled from the "valid guesses" list, but I have not taken the time to investigate the Wordle source code extensively enough to see whether this is true. Future versions may consist of tweaks along these lines.*)
+
+
+(* ::Subitem:: *)
+(*To the best of my knowledge, the resource data object Wordle Word List is a combination of all possible Wordle-related words (i.e. a Union of the two above-mentioned word lists).*)
+
+
+(* ::Item:: *)
+(*There are plans for future versions to implement:*)
+
+
+(* ::Subitem:: *)
+(*allowing users to choose from different word lists (the Wordle one, WordList, and maybe others)*)
+
+
+(* ::Subitem:: *)
+(*adjusting the number of initial guesses*)
+
+
+(* ::Subitem:: *)
+(*specifying whether guesses of length len!=5 are allowed*)
+
+
+(* ::Subitem:: *)
+(*specifying whether non-list guesses are allowed*)
+
+
+(* ::Subitem:: *)
+(*(possibly) choosing formatting options (colors, etc.) for the game itself*)
+
+
+(* ::Item:: *)
+(*Special thanks to Bob Sandheinrich for finding a coloring error in a previous version of this resource.*)
+
+
+(* ::Item:: *)
+(*Despite its awesomeness, the recent blog implementation by David Reiss is totally independent from this resource. Even so, the author thanks David for his generous conversations concerning Wordle and this resource in particular.*)
