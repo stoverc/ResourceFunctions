@@ -1,4 +1,4 @@
-# WFR-Resource-Functions
+# ResourceFunctions
 
 This is a collection of functions I either have submitted or will soon submit to the [Wolfram Function Repository](https://resources.wolframcloud.com/FunctionRepository/).
 
