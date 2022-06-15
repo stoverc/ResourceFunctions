@@ -14,4 +14,5 @@ Here is some data:
 
 ## Changelog
 ### 2022-Jun-14
-The first few commits here have been (and will continue to be) older-than-published versions, just for the sake of getting this repo caught up with the current status of the files as they exist in the WFR. Once this is done, commits will happen in a way that promotes CI/CD in the usual sense.
+1. The first few commits here have been (and will continue to be) older-than-published versions, just for the sake of getting this repo caught up with the current status of the files as they exist in the WFR. Once this is done, commits will happen in a way that promotes CI/CD in the usual sense.
+2. Later, I added a copy of the published author notes to the existing WL file. This is a temporary solution, and eventually, I'm going to change my directory structure(s) to better reflect the standard GitHub implementation of WFR function directories.
