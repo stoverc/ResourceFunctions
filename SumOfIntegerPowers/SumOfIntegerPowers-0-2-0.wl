@@ -5,7 +5,7 @@
 
 
 (* ::Text:: *)
-(*Express an integer as a sum of powers of one or more integer*)
+(*Express an integer or \[PlusMinus]\[Infinity] as a sum of powers of one or more integer*)
 
 
 (* ::Subsection::Closed:: *)

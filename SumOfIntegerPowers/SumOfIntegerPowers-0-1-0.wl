@@ -5,7 +5,7 @@
 
 
 (* ::Text:: *)
-(*Express an integer or infinite quantity as a sum of powers of one or more integer*)
+(*Express an integer as a sum of powers of one or more integer*)
 
 
 (* ::Subsection:: *)
@@ -365,28 +365,7 @@ SumOfIntegerPowers[n_?(IntegerQ[#]||#==Infinity||#==-Infinity&),list:{__?(Intege
 
 
 (* ::Input:: *)
-(*\!\( *)
-(*TagBox[*)
-(*StyleBox[*)
-(*RowBox[{*)
-(*RowBox[{"Inactive", "[", "Times", "]"}], "[", *)
-(*RowBox[{*)
-(*RowBox[{*)
-(*RowBox[{"Inactive", "[", "Power", "]"}], "[", *)
-(*RowBox[{"2", ",", "9"}], "]"}], ",", *)
-(*RowBox[{*)
-(*RowBox[{"Inactive", "[", "Power", "]"}], "[", *)
-(*RowBox[{"3", ",", "15"}], "]"}], ",", *)
-(*RowBox[{*)
-(*RowBox[{"Inactive", "[", "Power", "]"}], "[", *)
-(*RowBox[{"5", ",", "1"}], "]"}], ",", *)
-(*RowBox[{*)
-(*RowBox[{"Inactive", "[", "Power", "]"}], "[", *)
-(*RowBox[{"7", ",", "0"}], "]"}]}], "]"}],*)
-(*ShowSpecialCharacters->False,*)
-(*ShowStringCharacters->True,*)
-(*NumberMarks->True],*)
-(*FullForm]\)*)
+(*TagBox[StyleBox[RowBox[{RowBox[{"Inactive","[","Times","]"}],"[",RowBox[{RowBox[{RowBox[{"Inactive","[","Power","]"}],"[",RowBox[{"2",",","9"}],"]"}],",",RowBox[{RowBox[{"Inactive","[","Power","]"}],"[",RowBox[{"3",",","15"}],"]"}],",",RowBox[{RowBox[{"Inactive","[","Power","]"}],"[",RowBox[{"5",",","1"}],"]"}],",",RowBox[{RowBox[{"Inactive","[","Power","]"}],"[",RowBox[{"7",",","0"}],"]"}]}],"]"}],ShowSpecialCharacters->False,ShowStringCharacters->True,NumberMarks->True],FullForm]*)
 
 
 (* ::Text:: *)
