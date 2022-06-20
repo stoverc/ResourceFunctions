@@ -7,13 +7,15 @@ My ```$PublisherID``` is [TheRealCStover](https://resources.wolframcloud.com/pub
 ## Summary
 Here is some data:
 
-| Resource | Version(s) in this Repo | Published Version |
+| Resource | Versions in this Repo | Published Version |
 | ----------- | ----------- | ----------- |
 | [PlayWordle](https://resources.wolframcloud.com/FunctionRepository/resources/PlayWordle/) | v1.1.0 (Jun 20 '22) <br> v1.0.0 (Jun 20 '22) <br> v0.1.0 (Jun 14 '22) | v1.1.0 |
-| [RandomMetalPseudoSubgenre](https://resources.wolframcloud.com/FunctionRepository/resources/RandomMetalPseudoSubgenre/) | N/A (_coming soon_) | v1.0.0 |
+| [RandomMetalPseudoSubgenre](https://resources.wolframcloud.com/FunctionRepository/resources/RandomMetalPseudoSubgenre/) | v1.0.0 (Jun 20 '22) | v1.0.0 |
 
 ## Changelog
 ### 2022-Jun-20
+#### RandomMetalPseudoSubgenre
+1. Initial upload.
 #### PlayWordle
 1. I deleted all the old files in the repo and renamed them according to the standard naming in WFR def notebooks.
 2. I added v1.1.0 as both a .wl and a .nb file.
