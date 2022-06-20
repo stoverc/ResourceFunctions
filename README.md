@@ -17,6 +17,8 @@ Here is some data:
 ### 2022-Jun-20
 #### SumOfIntegerPowers
 1. Initial upload.
+2. Linked table entry to temporary cloud-deployed documentation.
+3. Later, updated README to reflect above-mentioned linking.
 #### RandomMetalPseudoSubgenre
 1. Initial upload.
 #### PlayWordle
