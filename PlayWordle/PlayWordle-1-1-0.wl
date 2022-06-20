@@ -1,3 +1,5 @@
+(* ::Package:: *)
+
 (* Created with the Wolfram Language : www.wolfram.com *)
 DynamicModule[{guessnumber = 0, list = {"aback", "abase", "abate", "abbey", 
     "abbot", "abhor", "abide", "abled", "abode", "abort", "about", "above", 
@@ -2193,3 +2195,139 @@ consist of valid dictionary words. Your guess of \"", ToLowerCase[ToString[
      dgn = RGBColor["#63aa55"]; lgy = GrayLevel[0.675]; )), 
   Alignment -> Center, ContentSize -> {700, Automatic}, 
   FrameLabel -> "PlayWordle"], DynamicModuleValues :> {}]
+
+
+(* ::Section:: *)
+(*Author Notes*)
+
+
+(* ::Subsection:: *)
+(*v 1.1.0*)
+
+
+(* ::Item:: *)
+(*The \!\( *)
+(*TagBox[*)
+(*ButtonBox[*)
+(*StyleBox["InputField", "SymbolsRefLink",*)
+(*ShowStringCharacters->True,*)
+(*FontFamily->"Source Sans Pro"],*)
+(*BaseStyle->{"Link"},*)
+(*ButtonData->"paclet:ref/InputField",*)
+(*ContentPadding->False],*)
+(*MouseAppearanceTag["LinkHand"]]\) was wrapped in an \!\( *)
+(*TagBox[*)
+(*ButtonBox[*)
+(*StyleBox["EventHandler", "SymbolsRefLink",*)
+(*ShowStringCharacters->True,*)
+(*FontFamily->"Source Sans Pro"],*)
+(*BaseStyle->{"Link"},*)
+(*ButtonData->"paclet:ref/EventHandler",*)
+(*ContentPadding->False],*)
+(*MouseAppearanceTag["LinkHand"]]\) so that guesses can be submitted using the \!\( *)
+(*TagBox["\[EnterKey]",*)
+(*"ForceRasterization"]\) key.*)
+
+
+(* ::Subitem:: *)
+(*This one's for you, Bob!*)
+
+
+(* ::Item:: *)
+(*Scrolling behavior (via \!\( *)
+(*TagBox[*)
+(*ButtonBox[*)
+(*StyleBox["Pane", "SymbolsRefLink",*)
+(*ShowStringCharacters->True,*)
+(*FontFamily->"Source Sans Pro"],*)
+(*BaseStyle->{"Link"},*)
+(*ButtonData->"paclet:ref/Pane",*)
+(*ContentPadding->False],*)
+(*MouseAppearanceTag["LinkHand"]]\) and options) has been (conditionally) added to the "Definitions" \!\( *)
+(*TagBox[*)
+(*ButtonBox[*)
+(*StyleBox["MessageDialog", "SymbolsRefLink",*)
+(*ShowStringCharacters->True,*)
+(*FontFamily->"Source Sans Pro"],*)
+(*BaseStyle->{"Link"},*)
+(*ButtonData->"paclet:ref/MessageDialog",*)
+(*ContentPadding->False],*)
+(*MouseAppearanceTag["LinkHand"]]\) in the event that words have a large number of definitions (e.g. "clear").*)
+
+
+(* ::Item:: *)
+(*A modified wordlist was implemented. This contains pieces of the v1.0.0 wordlist combined with some of the words in the official Wordle list.*)
+
+
+(* ::Subitem:: *)
+(*Special care was implemented so that contractions are excluded and obscenities are largely removed.*)
+
+
+(* ::Item:: *)
+(*Support was added for guesses containing uppercase letters. The "Scope" subsection was updated accordingly.*)
+
+
+(* ::Item:: *)
+(*The D&O section was modified, and some of the verbiage in "Possible Issues" was updated.*)
+
+
+(* ::Subsection:: *)
+(*v 1.0.0*)
+
+
+(* ::Item:: *)
+(*Online sources suggest that the official Wordle game has a list of words it uses for the game (link) and a separate word list consisting of what it considers "valid guesses" (link).*)
+
+
+(* ::Subitem:: *)
+(*This source says that the daily puzzle words will never be pulled from the "valid guesses" list, but I have not taken the time to investigate the Wordle source code extensively enough to see whether this is true. Future versions may consist of tweaks along these lines.*)
+
+
+(* ::Subitem:: *)
+(*To the best of my knowledge, the resource data object Wordle Word List is a combination of all possible Wordle-related words (i.e. a \!\( *)
+(*TagBox[*)
+(*ButtonBox["Union",*)
+(*BaseStyle->{"Link"},*)
+(*ButtonData->"paclet:ref/Union",*)
+(*ContentPadding->False],*)
+(*MouseAppearanceTag["LinkHand"]]\) of the two above-mentioned word lists).*)
+
+
+(* ::Item:: *)
+(*There are plans for future versions to implement:*)
+
+
+(* ::Subitem:: *)
+(*allowing users to choose from different word lists (the Wordle one, WordList and maybe others)*)
+
+
+(* ::Subitem:: *)
+(*adjusting the number of initial guesses*)
+
+
+(* ::Subitem:: *)
+(*specifying whether guesses of length \!\( *)
+(*TagBox[*)
+(*RowBox[{*)
+(*StyleBox["len", "TI"], "!=", "5"}],*)
+(*"ForceRasterization"]\) are allowed*)
+
+
+(* ::Subitem:: *)
+(*specifying whether non-list guesses are allowed*)
+
+
+(* ::Subitem:: *)
+(*(possibly) choosing formatting options (colors, etc.) for the game itself*)
+
+
+(* ::Item:: *)
+(*Special thanks to Bob Sandheinrich for finding a coloring error in a previous version of this resource.*)
+
+
+(* ::Item:: *)
+(*Despite its awesomeness, the recent blog implementation by David Reiss is totally independent from this resource. Even so, the author thanks David for his generous conversations concerning Wordle and this resource in particular.*)
+
+
+(* ::Item:: *)
+(*Many thanks to the WFR Reviewers for their feedback and improvement suggestions. The implementation is much better now than it was before review.*)
