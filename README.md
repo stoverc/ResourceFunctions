@@ -11,7 +11,7 @@ Here is some data:
 | ----------- | ----------- | ----------- |
 | [PlayWordle](https://resources.wolframcloud.com/FunctionRepository/resources/PlayWordle/) | v1.1.0 (Jun 20 '22) <br> v1.0.0 (Jun 20 '22) <br> v0.1.0 (Jun 14 '22) | v1.1.0 |
 | [RandomMetalPseudoSubgenre](https://resources.wolframcloud.com/FunctionRepository/resources/RandomMetalPseudoSubgenre/) | v1.0.0 (Jun 20 '22) | v1.0.0 |
-| SumOfIntegerPowers| v0.1.0 (Jun 20 '22) | (coming soon) |
+| [SumOfIntegerPowers](https://www.wolframcloud.com/obj/cstover/DeployedResources/Function/SumOfIntegerPowers/)<br><sub>(temporary cloud documentation)</sub> | v0.1.0 (Jun 20 '22) | (coming soon) |
 
 ## Changelog
 ### 2022-Jun-20
