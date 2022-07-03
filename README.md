@@ -1,17 +1,17 @@
 # ResourceFunctions
 
-This is a collection of functions I either have submitted or will soon submit to the <a href = "https://resources.wolframcloud.com/FunctionRepository/" target = "_blank">Wolfram Function Repository</a>.
+This is a collection of functions I either have submitted or will soon submit to the [Wolfram Function Repository](https://resources.wolframcloud.com/FunctionRepository/).
 
-My ```$PublisherID``` is <a href = "https://resources.wolframcloud.com/publishers/resources?PublisherID=TheRealCStover" target="_blank">TheRealCStover</a>.
+My ```$PublisherID``` is [TheRealCStover](https://resources.wolframcloud.com/publishers/resources?PublisherID=TheRealCStover).
 
 ## Summary
 Here is a snapshot:
 
 | Resource | Versions in this Repo | Published Version |
 | ----------- | ----------- | ----------- |
-| <a href = "https://resources.wolframcloud.com/FunctionRepository/resources/PlayWordle/" target="_blank">PlayWordle</a> | v1.1.0 (22 Jun 2022) <br> v1.0.0 (20 June 2022) <br> v0.1.0 (14 Jun 2022)) | v1.1.0 |
-| <a href = "https://resources.wolframcloud.com/FunctionRepository/resources/RandomMetalPseudoSubgenre/" target="_blank">RandomMetalPseudoSubgenre</a> | v1.0.0 (20 Jun 2022) | v1.0.0 |
-| <a href = "https://www.wolframcloud.com/obj/cstover/DeployedResources/Function/SumOfIntegerPowers" target="_blank">SumOfIntegerPowers</a><br><sub>(temporary cloud documentation)</sub> | v1.0.0 (3 Jul 2022) <br> v0.2.0 (20 Jun 2022) <br> v0.1.0 (20 Jun 2022) | (coming soon) |
+| [PlayWordle](https://resources.wolframcloud.com/FunctionRepository/resources/PlayWordle/) | v1.1.0 (22 Jun 2022) <br> v1.0.0 (20 June 2022) <br> v0.1.0 (14 Jun 2022)) | v1.1.0 |
+| [RandomMetalPseudoSubgenre](https://resources.wolframcloud.com/FunctionRepository/resources/RandomMetalPseudoSubgenre/) | v1.0.0 (20 Jun 2022) | v1.0.0 |
+| [SumOfIntegerPowers](https://www.wolframcloud.com/obj/cstover/DeployedResources/Function/SumOfIntegerPowers)<br><sub>(temporary cloud documentation)</sub> | v1.0.0 (3 Jul 2022) <br> v0.2.0 (20 Jun 2022) <br> v0.1.0 (20 Jun 2022) | (coming soon) |
 | BenfordAnalysis<br><sub>(no documentation yet)</sub> | v0.1.0 (2 Jul 2022) | (coming soon) |
 
 ## Changelog
