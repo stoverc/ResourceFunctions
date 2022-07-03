@@ -12,8 +12,11 @@ Here is some data:
 | [PlayWordle](https://resources.wolframcloud.com/FunctionRepository/resources/PlayWordle/) | v1.1.0 (22 Jun 2022) <br> v1.0.0 (20 June 2022) <br> v0.1.0 (14 Jun 2022)) | v1.1.0 |
 | [RandomMetalPseudoSubgenre](https://resources.wolframcloud.com/FunctionRepository/resources/RandomMetalPseudoSubgenre/) | v1.0.0 (20 Jun 2022) | v1.0.0 |
 | [SumOfIntegerPowers](https://www.wolframcloud.com/obj/cstover/DeployedResources/Function/SumOfIntegerPowers/)<br><sub>(temporary cloud documentation)</sub> | v0.2.0 (20 Jun 2022) <br> v0.1.0 (20 Jun 2022) | (coming soon) |
+| BenfordAnalysis<br><sub>(no documentation yet)</sub> | v0.1.0 (2 Jul 2022) | (coming soon) |
 
 ## Changelog
+### 2 Jul 2022
+1. Created my first branch, and uploaded a preliminary (0.1.0) version of `BenfordAnalysis`.
 ### 20 Jun 2022
 #### SumOfIntegerPowers
 1. Initial upload.
