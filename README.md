@@ -16,15 +16,16 @@ Here is some data:
 
 ## Changelog
 <h3>2 Jul 2022</h3>
-<ol>
-  <li>Created my first branch, and uploaded a preliminary (0.1.0) version of <code>BenfordAnalysis</code>.</li>
-  <li>Later, updated the <code>README.md</code> file to tidy up the change log a bit.</li>
-</ol>
+  <h4>BenfordAnalysis</h4>
+  <ol>
+    <li>Created my first branch, and uploaded a preliminary (0.1.0) version of <code>BenfordAnalysis</code>.</li>
+    <li>Later, updated the <code>README.md</code> file to tidy up the change log a bit.</li>
+  </ol>
 
 <details>
   <summary><h2>Older Changes</h2></summary>
   <details>
-    <summary><h3>20 Jun 2022</h3></summary>
+  <summary><h3>20 Jun 2022</h3></summary>
     <h4>SumOfIntegerPowers</h4>
     <ol>
       <li>Initial upload.</li>
@@ -35,9 +36,9 @@ Here is some data:
     <h4>RandomMetalPseudoSubgenre</h4>
     <ol>
       <li>Initial upload.</li>
-    </ol>
-    <h4>PlayWordle</h4>
-    <ol>
+      </ol>
+      <h4>PlayWordle</h4>
+      <ol>
       <li>I deleted all the old files in the repo and renamed them according to the standard naming in WFR def notebooks.</li>
       <li>I added v1.1.0 as both a .wl and a .nb file.</li>
       <li>Later, I realized that "v1.0.0" was actually v0.1.0, so I fixed the versioning issue on my end + reuploaded everything. This means that there are <i>three</i> versions now.</li>
@@ -45,11 +46,11 @@ Here is some data:
     </ol>
   </details>
   <details>
-    <summary><h3>14 Jun 2022</h3></summary>
+  <summary><h3>14 Jun 2022</h3></summary>
     <h4>PlayWordle</h4>
     <ol>
-    <li>The first few commits here have been (and will continue to be) older-than-published versions, just for the sake of getting this repo caught up with the current status of the files as they exist in the WFR. Once this is done, commits will happen in a way that promotes CI/CD in the usual sense.</li>
-    <li>Later, I added a copy of the published author notes to the existing WL file. This is a temporary solution, and eventually, I'm going to change my directory structure(s) to better reflect the standard GitHub implementation of WFR function directories.</li>
+      <li>The first few commits here have been (and will continue to be) older-than-published versions, just for the sake of getting this repo caught up with the current status of the files as they exist in the WFR. Once this is done, commits will happen in a way that promotes CI/CD in the usual sense.</li>
+      <li>Later, I added a copy of the published author notes to the existing WL file. This is a temporary solution, and eventually, I'm going to change my directory structure(s) to better reflect the standard GitHub implementation of WFR function directories.</li>
     </ol>
   </details>
 </details>
