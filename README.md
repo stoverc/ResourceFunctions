@@ -11,18 +11,22 @@ Here is a snapshot:
 | ----------- | ----------- | ----------- |
 | [PlayWordle](https://resources.wolframcloud.com/FunctionRepository/resources/PlayWordle/) | v1.1.0 (22 Jun 2022) <br> v1.0.0 (20 June 2022) <br> v0.1.0 (14 Jun 2022)) | v1.1.0 |
 | [RandomMetalPseudoSubgenre](https://resources.wolframcloud.com/FunctionRepository/resources/RandomMetalPseudoSubgenre/) | v1.0.0 (20 Jun 2022) | v1.0.0 |
-| [SumOfIntegerPowers](https://www.wolframcloud.com/obj/cstover/DeployedResources/Function/SumOfIntegerPowers)<br><sub>(temporary cloud documentation)</sub> | v1.0.0 (3 Jul 2022) <br> v0.2.0 (20 Jun 2022) <br> v0.1.0 (20 Jun 2022) | (coming soon) |
+| [InactiveSumOfPowers](https://resources.wolframcloud.com/FunctionRepository/resources/InactiveSumOfPowers/) | v1.0.0 (15 Jul 2022) <br> v0.3.0 (3 Jul 2022) <br> v0.2.0 (20 Jun 2022) <br> v0.1.0 (20 Jun 2022) | (coming soon) |
 | BenfordAnalysis<br><sub>(no documentation yet)</sub> | v0.1.0 (2 Jul 2022) | (coming soon) |
 
 ## Changelog
-<h3>3 Jul 2022</h3>
+<h3>15 Jul 2022</h3>
 <ol>
-  <li>Uploaded submission-quality versions of <code>SumOfIntegerPowers</code> files (<code>.wl</code> and <code>.nb</code>). Also, submitted said function to the WFR.</li>
+  <li>Uploaded <i>actual</i> submission-quality version of <code>InactiveSumOfPowers</code> (nee <code>SumOfIntegerPowers</code>) and renamed the other files in the directory to reflect the current name, versioning, etc.</li>
 </ol>
 
 <details>
   <summary><h2>Older Changes</h2></summary>
   <details>
+  <h3>3 Jul 2022</h3>
+  <ol>
+    <li>Uploaded submission-quality versions of <code>SumOfIntegerPowers</code> files (<code>.wl</code> and <code>.nb</code>). Also, submitted said function to the WFR.</li>
+  </ol>
   <summary><h3>2 Jul 2022</h3></summary>
   <h4>BenfordAnalysis</h4>
   <ol>
