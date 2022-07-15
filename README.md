@@ -9,9 +9,9 @@ Here is a snapshot:
 
 | Resource | Versions in this Repo | Published Version |
 | ----------- | ----------- | ----------- |
-| [PlayWordle](https://resources.wolframcloud.com/FunctionRepository/resources/PlayWordle/) | v1.1.0 (22 Jun 2022) <br> v1.0.0 (20 June 2022) <br> v0.1.0 (14 Jun 2022)) | v1.1.0 |
+| [PlayWordle](https://resources.wolframcloud.com/FunctionRepository/resources/PlayWordle/) | v1.1.0 (22 Jun 2022) <br> v1.0.0 (20 June 2022) <br> <sub>v0.1.0 (14 Jun 2022))</sub> | v1.1.0 |
 | [RandomMetalPseudoSubgenre](https://resources.wolframcloud.com/FunctionRepository/resources/RandomMetalPseudoSubgenre/) | v1.0.0 (20 Jun 2022) | v1.0.0 |
-| [InactiveSumOfPowers](https://resources.wolframcloud.com/FunctionRepository/resources/InactiveSumOfPowers/) | v1.0.0 (15 Jul 2022) <br> v0.3.0 (3 Jul 2022) <br> v0.2.0 (20 Jun 2022) <br> v0.1.0 (20 Jun 2022) | (coming soon) |
+| [InactiveSumOfPowers](https://resources.wolframcloud.com/FunctionRepository/resources/InactiveSumOfPowers/) | v1.0.0 (15 Jul 2022) <br> <sub>v0.3.0 (3 Jul 2022)</sub> <br> <sub>v0.2.0 (20 Jun 2022)</sub> <br> <sub>v0.1.0 (20 Jun 2022)</sub> | <sub>v1.0.0</sub> |
 | BenfordAnalysis<br><sub>(no documentation yet)</sub> | v0.1.0 (2 Jul 2022) | (coming soon) |
 
 ## Changelog
@@ -23,10 +23,12 @@ Here is a snapshot:
 <details>
   <summary><h2>Older Changes</h2></summary>
   <details>
-  <h3>3 Jul 2022</h3>
+  <summary><h3>3 Jul 2022</h3></summary>
   <ol>
     <li>Uploaded submission-quality versions of <code>SumOfIntegerPowers</code> files (<code>.wl</code> and <code>.nb</code>). Also, submitted said function to the WFR.</li>
   </ol>
+  </details>
+  <details>
   <summary><h3>2 Jul 2022</h3></summary>
   <h4>BenfordAnalysis</h4>
   <ol>
