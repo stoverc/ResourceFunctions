@@ -345,7 +345,7 @@ InactiveSumOfPowers[n_?(IntegerQ[#]||#==Infinity||#==-Infinity&),list:{__?(Integ
 (*Implementation Notes*)
 
 
-(* ::Notes:: *)
+(* ::Item:: *)
 (*By default, InactiveSumOfPowers[n,{Subscript[p, 1],\[Ellipsis],Subscript[p, k]}] generally performs the following algorithm to determine the factorization of n:*)
 
 
@@ -369,7 +369,7 @@ InactiveSumOfPowers[n_?(IntegerQ[#]||#==Infinity||#==-Infinity&),list:{__?(Integ
 (*v1.0.0*)
 
 
-(* ::ItemNumbered:: *)
+(* ::Item:: *)
 (*In future versions, better handling of the "power of list" case will be included. For instance, I would argue that*)
 
 
@@ -381,19 +381,15 @@ InactiveSumOfPowers[n_?(IntegerQ[#]||#==Infinity||#==-Infinity&),list:{__?(Integ
 (*should actually be something like*)
 
 
-(* ::Input:: *)
-(*Inactive[Times][Inactive[Power][2,9],Inactive[Power][3,15],Inactive[Power][5,1],Inactive[Power][7,0]]*)
-
-
 (* ::Text:: *)
 (*instead.*)
 
 
-(* ::Text:: *)
+(* ::Subitem:: *)
 (*I already have a fix written for this. Whenever I implement it, I'll be sure to edit info in "Options", D&O and any other places.*)
 
 
-(* ::ItemNumbered:: *)
+(* ::Item:: *)
 (*Design changes may be implemented to change the behavior discussed in "Possible Issues":*)
 
 
@@ -413,9 +409,9 @@ InactiveSumOfPowers[n_?(IntegerQ[#]||#==Infinity||#==-Infinity&),list:{__?(Integ
 (*InactiveSumOfPowers[2^9*3^15*5,{2,3,5,7},"HoldListProducts"->False]*)
 
 
-(* ::Text:: *)
-(*Perhaps these scenarios should be handled the same? Or perhaps the first situation should be handled differently if "HoldListProducts" and "CollectLikeTerms" are both set to True?*)
+(* ::Subitem:: *)
+(*Perhaps these scenarios should be handled the same? Or perhaps the first situation should be handled differently if "HoldListProducts" and "CollectLikeTerms" are both set to True.*)
 
 
-(* ::ItemNumbered:: *)
+(* ::Item:: *)
 (*For non-infinite n, I may extend InactiveSumOfPowers[n,list] to allow list to contain 1. I don't have strong opinions about this currently but it may happen in the future.*)
