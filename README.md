@@ -16,6 +16,7 @@ Here is a snapshot:
 
 ## Changelog
 <h3>15 Jul 2022</h3>
+<h4>InactiveSumOfPowers nee SumOfIntegerPowers</h4>
 <ol>
   <li>Uploaded <i>actual</i> submission-quality version of <code>InactiveSumOfPowers</code> (nee <code>SumOfIntegerPowers</code>) and renamed the other files in the directory to reflect the current name, versioning, etc.</li>
 </ol>
