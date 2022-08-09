@@ -12,11 +12,11 @@ Here is a snapshot:
 | [PlayWordle](https://resources.wolframcloud.com/FunctionRepository/resources/PlayWordle/) | v1.1.0 (22 Jun 2022) <br> <sub>v1.0.0 (20 Jun 2022)</sub> <br> <sub>v0.1.0 (14 Jun 2022))</sub> | v1.1.0 |
 | [RandomMetalPseudoSubgenre](https://resources.wolframcloud.com/FunctionRepository/resources/RandomMetalPseudoSubgenre/) | v1.0.0 (20 Jun 2022) | v1.0.0 |
 | [InactiveSumOfPowers](https://resources.wolframcloud.com/FunctionRepository/resources/InactiveSumOfPowers/) | v1.0.0 (15 Jul 2022) <br> <sub>v0.3.0 (3 Jul 2022)</sub> <br> <sub>v0.2.0 (20 Jun 2022)</sub> <br> <sub>v0.1.0 (20 Jun 2022)</sub> | v1.0.0 |
-| BenfordAnalysis<br><sub>(no documentation yet)</sub> | v0.1.0 (2 Jul 2022) | (coming soon) |
 | [AdditivePersistence](https://resources.wolframcloud.com/FunctionRepository/resources/AdditivePersistence/) | v1.0.0 (9 Aug 2022)| v1.0.0 | 
 | [AdditiveDigitalRoot](https://resources.wolframcloud.com/FunctionRepository/resources/AdditiveDigitalRoot/) | v1.0.0 (9 Aug 2022)| v1.0.0 | 
 | [MultiplicativePersistence](https://resources.wolframcloud.com/FunctionRepository/resources/MultiplicativePersistence/) | v1.0.0 (9 Aug 2022)| v1.0.0 | 
 | [MultiplicativeDigitalRoot](https://resources.wolframcloud.com/FunctionRepository/resources/MultiplicativeDigitalRoot/) | v1.0.0 (9 Aug 2022)| v1.0.0 | 
+| BenfordAnalysis<br><sub>(no documentation yet)</sub> | v0.1.0 (2 Jul 2022) | (coming soon) |
 
 ## Changelog
 <h3>9 Aug 2022</h3>
