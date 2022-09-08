@@ -19,19 +19,19 @@ Here is a snapshot:
 | [Fusc](https://www.wolframcloud.com/env/cstover/DeployedResources/Function/Fusc/index.html) | v0.1.0 (7 Sep 2022) | (coming soon) |
 | BenfordAnalysis<br><sub>(no documentation yet)</sub> | v0.1.0 (2 Jul 2022) | (coming soon) |
 
-## Changelog
-<h3>7 Sep 2022</h3>
-<h4>Fusc</h4>
-<ol>
-  <li>Initial upload of <code>.nb</code> and <code>.wl</code> files. This has already been submitted to the WFR.</li>
-</ol>
-<h4>BenfordAnalysis</h4>
-<ol>
-  <li>Uploaded <code>.nb</code> file for v0.1.0 to go along with the already-existent <code>.wl</code> file. This is likely to undergo considerable renaming, rewriting, expansion, etc.</li>
-</ol>
-
 <details>
-  <summary><h2>Older Changes</h2></summary>
+  <summary><h2>Changelog</h2></summary>
+  <details>
+    <summary><h3>7 Sep 2022</h3></summary>
+    <h4>Fusc</h4>
+    <ol>
+      <li>Initial upload of <code>.nb</code> and <code>.wl</code> files. This has already been submitted to the WFR.</li>
+    </ol>
+    <h4>BenfordAnalysis</h4>
+    <ol>
+      <li>Uploaded <code>.nb</code> file for v0.1.0 to go along with the already-existent <code>.wl</code> file. This is likely to undergo considerable renaming, rewriting, expansion, etc.</li>
+    </ol>
+  </details>
   <details>
     <summary><h3>9 Aug 2022</h3></summary>
     <h4>*Persistence, *DigitalRoot</h4>
