@@ -33,33 +33,33 @@ Here is a snapshot:
 <details>
   <summary><h2>Older Changes</h2></summary>
   <details>
-  <h3>9 Aug 2022</h3>
-  <h4>*Persistence, *DigitalRoot</h4>
-  <ol>
-    <li>Uploaded <i>actual</i> submission-quality versions of <code>AdditivePersistence</code>, <code>AdditiveDigitalRoot</code>, <code>MultiplicativePersistence</code>, and <code>MultiplicativeDigitalRoot</code>.</li>
-  </ol>
+    <summary><h3>9 Aug 2022</h3></summary>
+    <h4>*Persistence, *DigitalRoot</h4>
+    <ol>
+      <li>Uploaded <i>actual</i> submission-quality versions of <code>AdditivePersistence</code>, <code>AdditiveDigitalRoot</code>, <code>MultiplicativePersistence</code>, and <code>MultiplicativeDigitalRoot</code>.</li>
+    </ol>
   </details>
   <details>
   <summary><h3>15 Jul 2022</h3></summary>
-  <h4>InactiveSumOfPowers nee SumOfIntegerPowers</h4>
-  <ol>
-    <li>Uploaded <i>actual</i> submission-quality version of <code>InactiveSumOfPowers</code> (nee <code>SumOfIntegerPowers</code>) and renamed the other files in the directory to reflect the current name, versioning, etc.</li>
+    <h4>InactiveSumOfPowers nee SumOfIntegerPowers</h4>
+    <ol>
+      <li>Uploaded <i>actual</i> submission-quality version of <code>InactiveSumOfPowers</code> (nee <code>SumOfIntegerPowers</code>) and renamed the other files in the directory to reflect the current name, versioning, etc.</li>
   </ol>
   </details>
   <details>
   <summary><h3>3 Jul 2022</h3></summary>
-  <h4>InactiveSumOfPowers nee SumOfIntegerPowers</h4>
-  <ol>
-    <li>Uploaded submission-quality versions of <code>SumOfIntegerPowers</code> files (<code>.wl</code> and <code>.nb</code>). Also, submitted said function to the WFR.</li>
-  </ol>
+    <h4>InactiveSumOfPowers nee SumOfIntegerPowers</h4>
+    <ol>
+      <li>Uploaded submission-quality versions of <code>SumOfIntegerPowers</code> files (<code>.wl</code> and <code>.nb</code>). Also, submitted said function to the WFR.</li>
+    </ol>
   </details>
   <details>
   <summary><h3>2 Jul 2022</h3></summary>
-  <h4>BenfordAnalysis</h4>
-  <ol>
-    <li>Created my first branch, and uploaded a preliminary (0.1.0) version of <code>BenfordAnalysis</code>.</li>
-    <li>Later, updated the <code>README.md</code> file to tidy up the change log a bit.</li>
-  </ol>
+    <h4>BenfordAnalysis</h4>
+    <ol>
+      <li>Created my first branch, and uploaded a preliminary (0.1.0) version of <code>BenfordAnalysis</code>.</li>
+      <li>Later, updated the <code>README.md</code> file to tidy up the change log a bit.</li>
+    </ol>
   </details>
   <details>
   <summary><h3>20 Jun 2022</h3></summary>
