@@ -16,11 +16,18 @@ Here is a snapshot:
 | [AdditiveDigitalRoot](https://resources.wolframcloud.com/FunctionRepository/resources/AdditiveDigitalRoot/) | v1.0.0 (9 Aug 2022)| v1.0.0 | 
 | [MultiplicativePersistence](https://resources.wolframcloud.com/FunctionRepository/resources/MultiplicativePersistence/) | v1.0.0 (9 Aug 2022)| v1.0.0 | 
 | [MultiplicativeDigitalRoot](https://resources.wolframcloud.com/FunctionRepository/resources/MultiplicativeDigitalRoot/) | v1.0.0 (9 Aug 2022)| v1.0.0 | 
-| [Fusc](https://www.wolframcloud.com/env/cstover/DeployedResources/Function/Fusc/index.html) | v0.1.0 (7 Sep 2022) | (coming soon) |
+| [Fusc](https://resources.wolframcloud.com/FunctionRepository/resources/Fusc/) | v1.0.0 (9 Sep 2022) <br> <sub>v0.1.0 (7 Sep 2022)</sub> | v1.0.0 |
 | BenfordAnalysis<br><sub>(no documentation yet)</sub> | v0.1.0 (2 Jul 2022) | (coming soon) |
 
 <details>
   <summary><h2>Changelog</h2></summary>
+  <details>
+    <summary><h3>9 Sep 2022</h3></summary>
+    <h4>Fusc</h4>
+    <ol>
+      <li>v1.0.0 (published quality) uploads.</li>
+    </ol>
+  </details>
   <details>
     <summary><h3>7 Sep 2022</h3></summary>
     <h4>Fusc</h4>
